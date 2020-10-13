@@ -1,5 +1,5 @@
 ---
-title: Views
+title: Отображение
 description: The Views section describes all you need to know to configure data and views for a specific route in your Nuxt.js Application. Views consist of an app template, a layout, and the actual page.
 position: 1
 category: concepts
